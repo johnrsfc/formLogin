@@ -1,4 +1,4 @@
-<strong><h1 align="center">#RocketNews</h1></strong>
+<strong><h1 align="center">#Login Form</h1></strong>
 
 <p align="center">
   <img alt="" src="./assets/cover.png" width="100%">
